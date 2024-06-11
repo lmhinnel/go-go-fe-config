@@ -11,4 +11,4 @@ configmap:
 
 imageFe:
   name: lmhinnoc/vdt-fe
-  tag: latest
+  tag: "v1.0.0"
